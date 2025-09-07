@@ -3,6 +3,9 @@
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
 
+<div align="center">
+  <h3>Linguagens e Ferramentas </h3>
+</div>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" height="40" alt="java logo"  />
@@ -18,10 +21,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github logo"  />
 </p>  
-    
 
-### Redes:  <a href="https://www.linkedin.com/in/matheus-danilo-b5679a23b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://discord.com/channels/492453678179942400/1351315370706993264" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://app.netlify.com/teams/mizarnecki/sites) </a> <a href = "mailto:mikemizarnecki@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+[![E-mail](https://custom-icon-badges.demolab.com/badge/-Email-dc262d?style=for-the-badge&logo=mail&logoColor=white)](mailto:matthedan@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-app-white-icon)](https://www.linkedin.com/in/matheus-danilo-b5679a23b)
 
 
 
