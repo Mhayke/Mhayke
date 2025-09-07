@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=+Olá+sou+Mike,++Desenvolvedor+Backend!)](https://git.io/typing-svg)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mike&theme=github_dark)
 
-<div align="right">
+<div align="center">
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhayke&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />  
 </div>
 
