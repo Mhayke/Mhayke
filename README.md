@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8f00ff&width=720&lines=+Olá+sou+MatheusD.++Desenvolvedor+Backend!)](https://git.io/typing-svg)
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?size=25&duration=4200&color=1BC53B&height=50&lines=echo+%22Ol%C3%A1%2C+mundo!%22&center=true" alt="Typing" />
 </p>
