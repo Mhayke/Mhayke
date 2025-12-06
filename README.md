@@ -3,14 +3,8 @@
 </p>
 
 <div align="center">
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhayke&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />  
-</div>
-
-![github-contribution-grid-snake]
-(https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
-
-<div align="center">
-  <h3>Linguagens e Ferramentas </h3>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhayke&layout=compact&hide_border=true&title_color=8f00ff
+  &text_color=ffffff&bg_color=0d1117" />  
 </div>
 
 <p align="center">
@@ -29,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg" height="40" alt="postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="git"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
-</p>  
+</p>
 
 [![E-mail](https://custom-icon-badges.demolab.com/badge/-Email-dc262d?style=for-the-badge&logo=mail&logoColor=white)](mailto:matthedan@gmail.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-app-white-icon)](https://www.linkedin.com/in/matheus-danilo-b5679a23b)
